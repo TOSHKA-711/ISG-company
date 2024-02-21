@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ISG-company/static/css/main.b650ff0d.css",
-    "main.js": "/ISG-company/static/js/main.cb1aeded.js",
+    "main.js": "/ISG-company/static/js/main.1239c301.js",
     "static/js/453.1a747cb0.chunk.js": "/ISG-company/static/js/453.1a747cb0.chunk.js",
     "static/media/logo.png": "/ISG-company/static/media/logo.181c9f7ff2b5c4d02c7a.png",
     "static/media/KW-flag.png": "/ISG-company/static/media/KW-flag.5632a108031d65c846d8.png",
@@ -15,11 +15,11 @@
     "static/media/p5.png": "/ISG-company/static/media/p5.2cb6044a1d6ca9f29fc7.png",
     "index.html": "/ISG-company/index.html",
     "main.b650ff0d.css.map": "/ISG-company/static/css/main.b650ff0d.css.map",
-    "main.cb1aeded.js.map": "/ISG-company/static/js/main.cb1aeded.js.map",
+    "main.1239c301.js.map": "/ISG-company/static/js/main.1239c301.js.map",
     "453.1a747cb0.chunk.js.map": "/ISG-company/static/js/453.1a747cb0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b650ff0d.css",
-    "static/js/main.cb1aeded.js"
+    "static/js/main.1239c301.js"
   ]
 }
