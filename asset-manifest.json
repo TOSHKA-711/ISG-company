@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.b650ff0d.css",
-    "main.js": "/static/js/main.311c55da.js",
-    "static/js/453.1a747cb0.chunk.js": "/static/js/453.1a747cb0.chunk.js",
-    "static/media/logo.png": "/static/media/logo.181c9f7ff2b5c4d02c7a.png",
-    "static/media/KW-flag.png": "/static/media/KW-flag.5632a108031d65c846d8.png",
-    "static/media/english flag.png": "/static/media/english flag.3c48d27befd81a1af32a.png",
-    "static/media/p4.png": "/static/media/p4.f297e4f6ad90f9374176.png",
-    "static/media/p7.png": "/static/media/p7.617cb65a033bda0ff16b.png",
-    "static/media/p6.png": "/static/media/p6.cf70f5b157c91b036ead.png",
-    "static/media/p2.png": "/static/media/p2.a8c1fd8591806af5fd92.png",
-    "static/media/p11.png": "/static/media/p11.94683a581a8aa21f036f.png",
-    "static/media/p12.png": "/static/media/p12.8aa3da971cb3ef5a2a1e.png",
-    "static/media/p5.png": "/static/media/p5.2cb6044a1d6ca9f29fc7.png",
-    "index.html": "/index.html",
-    "main.b650ff0d.css.map": "/static/css/main.b650ff0d.css.map",
-    "main.311c55da.js.map": "/static/js/main.311c55da.js.map",
-    "453.1a747cb0.chunk.js.map": "/static/js/453.1a747cb0.chunk.js.map"
+    "main.css": "/TOSHKA-711/ISG-company.git/static/css/main.b650ff0d.css",
+    "main.js": "/TOSHKA-711/ISG-company.git/static/js/main.ea310a8c.js",
+    "static/js/453.1a747cb0.chunk.js": "/TOSHKA-711/ISG-company.git/static/js/453.1a747cb0.chunk.js",
+    "static/media/logo.png": "/TOSHKA-711/ISG-company.git/static/media/logo.181c9f7ff2b5c4d02c7a.png",
+    "static/media/KW-flag.png": "/TOSHKA-711/ISG-company.git/static/media/KW-flag.5632a108031d65c846d8.png",
+    "static/media/english flag.png": "/TOSHKA-711/ISG-company.git/static/media/english flag.3c48d27befd81a1af32a.png",
+    "static/media/p4.png": "/TOSHKA-711/ISG-company.git/static/media/p4.f297e4f6ad90f9374176.png",
+    "static/media/p7.png": "/TOSHKA-711/ISG-company.git/static/media/p7.617cb65a033bda0ff16b.png",
+    "static/media/p6.png": "/TOSHKA-711/ISG-company.git/static/media/p6.cf70f5b157c91b036ead.png",
+    "static/media/p2.png": "/TOSHKA-711/ISG-company.git/static/media/p2.a8c1fd8591806af5fd92.png",
+    "static/media/p11.png": "/TOSHKA-711/ISG-company.git/static/media/p11.94683a581a8aa21f036f.png",
+    "static/media/p12.png": "/TOSHKA-711/ISG-company.git/static/media/p12.8aa3da971cb3ef5a2a1e.png",
+    "static/media/p5.png": "/TOSHKA-711/ISG-company.git/static/media/p5.2cb6044a1d6ca9f29fc7.png",
+    "index.html": "/TOSHKA-711/ISG-company.git/index.html",
+    "main.b650ff0d.css.map": "/TOSHKA-711/ISG-company.git/static/css/main.b650ff0d.css.map",
+    "main.ea310a8c.js.map": "/TOSHKA-711/ISG-company.git/static/js/main.ea310a8c.js.map",
+    "453.1a747cb0.chunk.js.map": "/TOSHKA-711/ISG-company.git/static/js/453.1a747cb0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b650ff0d.css",
-    "static/js/main.311c55da.js"
+    "static/js/main.ea310a8c.js"
   ]
 }
