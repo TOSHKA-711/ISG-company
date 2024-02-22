@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ISG-company/static/css/main.b650ff0d.css",
-    "main.js": "/ISG-company/static/js/main.1239c301.js",
+    "main.css": "/ISG-company/static/css/main.44332456.css",
+    "main.js": "/ISG-company/static/js/main.d3bc2693.js",
     "static/js/453.1a747cb0.chunk.js": "/ISG-company/static/js/453.1a747cb0.chunk.js",
     "static/media/logo.png": "/ISG-company/static/media/logo.181c9f7ff2b5c4d02c7a.png",
     "static/media/KW-flag.png": "/ISG-company/static/media/KW-flag.5632a108031d65c846d8.png",
@@ -14,12 +14,12 @@
     "static/media/p12.png": "/ISG-company/static/media/p12.8aa3da971cb3ef5a2a1e.png",
     "static/media/p5.png": "/ISG-company/static/media/p5.2cb6044a1d6ca9f29fc7.png",
     "index.html": "/ISG-company/index.html",
-    "main.b650ff0d.css.map": "/ISG-company/static/css/main.b650ff0d.css.map",
-    "main.1239c301.js.map": "/ISG-company/static/js/main.1239c301.js.map",
+    "main.44332456.css.map": "/ISG-company/static/css/main.44332456.css.map",
+    "main.d3bc2693.js.map": "/ISG-company/static/js/main.d3bc2693.js.map",
     "453.1a747cb0.chunk.js.map": "/ISG-company/static/js/453.1a747cb0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b650ff0d.css",
-    "static/js/main.1239c301.js"
+    "static/css/main.44332456.css",
+    "static/js/main.d3bc2693.js"
   ]
 }
